@@ -1,9 +1,9 @@
-theme: jekyll-theme-minimal
+Dtheme: jekyll-theme-minimal
 title: Are You Stuck in a YouTube Bubble? It's Time to Expand Your Information Sources!
 description: A template website for ADA
 show_downloads: True
 navigation:
   - title: Home
-    url: /
+    url: README
   - title: Example
     url: example
