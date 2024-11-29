@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title: Are You Stuck in a YouTube Bubble? It's Time to Expand Your Information Sources!
+description: The common advice suggests that to stay well-informed, one should diversify its sources. We can define clusters of youtube users, which formed by particularly active people within a channel. These clusters reflect communities invested into the same channel but don't yet imply that they don’t diversify their sources to retrieve information on a particular topic.
+Problems can arise when these clusters evolve into bubbles, where users become confined to specific content, limiting exposure to other points of view. In these bubbles, interactions are mostly between individuals who share the same interests, whether it's the same video subjects or channels followed.
+In this study, we aim to analyze whether users that frequently interact under News and politics content of a certain channel form a bubble. After identification of clusters based on commenting behavior in the main media channels, we will assess how isolated they are, focusing on whether they cross over into bubbles.
 show_downloads: True
 navigation:
   - title: Home
