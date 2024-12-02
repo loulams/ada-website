@@ -3,8 +3,8 @@
 ![output](/assets/img/output1.png)
 
 ### Comments distribution for the 5 main channels
+![output](/assets/img/outputb.png)
 ![output](/assets/img/outputc.png)
-![output](/assets/img/outputd.png)
 ![output](/assets/img/outpute.png)
 ![output](/assets/img/outputf.png)
 ![output](/assets/img/outputg.png)
