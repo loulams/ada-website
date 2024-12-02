@@ -7,3 +7,5 @@ navigation:
     url: /
   - title: Why News and Politics ?
     url: newsandpolitics
+  - title : Defining cluster
+    url: cluster
