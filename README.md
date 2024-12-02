@@ -1,28 +1,5 @@
 # “Are You Stuck in a YouTube Bubble? It's Time to Expand Your Information Sources!”
 
-Make sure to have all the tools before starting by running the following lines:
-```bash
-# clone project
-git clone <project link>
-cd <project repo>
-
-# [OPTIONAL] create conda environment
-conda create -n <env_name> python=3.11 or ...
-conda activate <env_name>
-
-
-# install requirements
-pip install -r pip_requirements.txt
-```
-## Repository structure
-- 📁 `data`: clean and filtered data saved in the repository
-   - `dataset` 
-- :file_folder: `src`:
-   - `utils.py`: Helper functions used in the notebook.
-- `.gitignore`: Specifies files and folders to ignore.
-- `README.md`: Main documentation file of the repository, providing an overview and general instructions.
-- `pip_requirements.txt`: List of packages required for our code.
-- `results.ipynb`: Main work for Milestone 2.
 
 ## Abstract
 The common advice suggests that to stay well-informed, one should diversify its sources. We can define clusters of youtube users, which formed by particularly active people within a channel. These clusters reflect communities invested into the same channel but don't yet imply that they don’t diversify their sources to retrieve information on a particular topic.
