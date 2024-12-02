@@ -3,7 +3,7 @@
 ![output](https://github.com/loulams/ada-website/blob/master/assets/img/output1.png)
 
 ### Comments distribution for the 5 main channels
-![output](https://github.com/loulams/ada-website/blob/master/assets/img/outputc.png)
+![output](/assets/img/outputc.png)
 ![output](https://github.com/loulams/ada-website/blob/master/assets/img/outputd.png)
 ![output](https://github.com/loulams/ada-website/blob/master/assets/img/outpute.png)
 ![output](https://github.com/loulams/ada-website/blob/master/assets/img/outputf.png)
