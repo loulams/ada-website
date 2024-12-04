@@ -13,4 +13,4 @@ In this study, we aim to analyze whether users that frequently interact under Ne
 - Are clusters in our dataset indicative of bubbles with limited perspective diversity ?
 - Do commenters of major news channels form bubbles, or do they behave similarly to random Youtube users ?
 - How isolated are the bubbles within the News and Politics community ? Can we find reasons for this isolation ?
-- For what purpose do the identified bubbles use News and Politics content (e.g politics, daily news, etc.) ? Are the bubbles isolated due to the media they refer to, or the common topics of interest ?(test) manon c trp une blg 
+- For what purpose do the identified bubbles use News and Politics content (e.g politics, daily news, etc.) ? Are the bubbles isolated due to the media they refer to, or the common topics of interest ?(test) bon vasy askip ca buuuuuugg 
