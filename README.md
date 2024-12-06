@@ -1,5 +1,5 @@
 # “Are You Stuck in a YouTube Bubble? It's Time to Expand Your Information Sources!”
-![output](/assets/img/soap-bubbles-2417436_1920-e1593186009893.jpg)
+![output](/assets/img/bubble_ADA - copie.png)
 
 ## Abstract
 The common advice suggests that to stay well-informed, one should diversify its sources. We can define clusters of youtube users, which formed by particularly active people within a channel. These clusters reflect communities invested into the same channel but don't yet imply that they don’t diversify their sources to retrieve information on a particular topic.
