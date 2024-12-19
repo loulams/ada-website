@@ -1,21 +1,9 @@
-Dtheme: jekyll-theme-minimal
-title: Are You Stuck in a YouTube Bubble? It's Time to Expand Your Information Sources!
-description: 
+theme: jekyll-theme-minimal
+title: ADA Template Website
+description: A template website for ADA
 show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: From creation to reaction
-    description: Understanding Youtube's content dynamics
-    url: cluster
-
-  - title: Uncovering the patterns
-    description: Understanding the power players of youtube
-    url: newsandpolitics
-
-  - title: A world of similarities
-    description: Uncovering shared viewing patterns
-    url: bubbles
-  - title: The keywords beyond the curtain
-    description: Unveiling connections in shared videos
-    url: description
+  - title: Example
+    url: example
