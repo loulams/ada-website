@@ -1,6 +1,6 @@
 # Are You Stuck in a YouTube Bubble? It's Time to Expand Your Information Sources!
 
-## Analysis of Youtubers comportment in News & Politics category
+##            Analysis of Youtubers comportment in News & Politics category
 
 ![output](/assets/img/bubble_ADA_version1.png)
 
