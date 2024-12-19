@@ -1,4 +1,4 @@
-# (You)tube
+#                                                          (You)tube
 ![output](/assets/img/bubble_ADA_version1.png)
 
 Nowadays most of the information is digitalized (literature, pictures, videos…), thus making an enormous amount of information available, which also implies much more fake news. Not every information is trustworthy. A widely accepted advice to avoid misinformation is to stay well informed, i.e. one should diversify its sources. 
