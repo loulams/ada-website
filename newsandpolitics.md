@@ -17,7 +17,7 @@ In our study we are interested in exploring the existence of isolated groups whe
 </div>
 
 Regarding the Venn diagram, we see that out of 49 480 only 122 are shared across all channels, suggesting minime cross-channel interactions. 
-
+<div align="center">
 | Channel | Percentage of Users Not Overlapping with Other Channels |
 |---------|---------------------------------------------------------|
 |   CNN   |                         55.8%                           |
@@ -25,7 +25,7 @@ Regarding the Venn diagram, we see that out of 49 480 only 122 are shared across
 |   BBC   |                         66.1%                           |
 |   AJE   |                         62.9%                           |
 |   FOX   |                         63.7%                           |
-
+</div>
 
 Additionally, approximately 60% of the total users for each channel primarily watch content from their channel as seen on the table above.This suggests a certain alignement of the users in the clusters with the channels content. 
 
