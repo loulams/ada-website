@@ -3,7 +3,7 @@ Therefore we needed to set a threshold.
 
 
 <div align="center">
-  <img src="/assets/img/thresold_.png" alt="Image description" width="100%">
+  <img src="/assets/img/thresold_.png" alt="Image description" width="70%">
 </div>
 
 The 99% percentile threshold was chosen,  as it is already a big set of users. It is statistically relevant because it is taking the most active 1% users for each channels. 
