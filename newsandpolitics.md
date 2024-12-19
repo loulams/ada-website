@@ -1,7 +1,7 @@
 As explained beforehand, only a small number of users post a lot of comments. Those are the more susceptible to share increased similarities in their viewing patterns. We need to isolate them from the rest of users, who are not as much invested. 
 Therefore we needed to set a threshold. 
 
-![output](/assets/img/thresold.png)
+![output](/assets/img/thresold_.png)
 
 
 The 99% percentile threshold was chosen,  as it is already a big set of users. It is statistically relevant because it is taking the most active 1% users for each channels. 
