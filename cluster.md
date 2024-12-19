@@ -3,7 +3,7 @@
 On youtube , a lot of videos are produced, meaning a lot of content is created by various channels. 
 
 
-![output](/assets/img/Capture d’écran 2024-12-19 à 15.44.36.png)
+![output](/assets/img/histo_intro.png)
 
 ## Comments distribution for the 5 main channels
 ![output](/assets/img/outputb.png)
