@@ -1,11 +1,15 @@
 Dtheme: jekyll-theme-minimal
 title: Are You Stuck in a YouTube Bubble? It's Time to Expand Your Information Sources!
-description: A template website for ADA
+description: 
 show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Why News and Politics ?
+  - title: Part 1: From creation to reaction : Understanding Youtube’s content dynamics
     url: newsandpolitics
-  - title : Defining cluster
+  - title : Part 2: Uncovering the patterns of the  power players of youtube.
     url: cluster
+  - title: Part 3: A world of similarities: uncovering shared viewing patterns 
+    url: bubble
+  - title: Part 4: The keywords beyond the curtain: Unveiling connections in shared videos. 
+    url: description
