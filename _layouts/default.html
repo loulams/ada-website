@@ -12,29 +12,29 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
       </header>
 
-      <!-- Navigation to other pages -->
-      <section class="homepage-navigation">
-        <h2>Explore Other Pages</h2>
-        <ul>
-          {% for page in site.pages %}
-            {% unless page.url == "/" %}
-              <li><a href="{{ page.url | relative_url }}">{{ page.title | default: page.name }}</a></li>
-            {% endunless %}
-          {% endfor %}
-        </ul>
-      </section>
+      <section class="home-content">
+        <h2>Welcome to Our Exploration</h2>
+        <p>{{ content }}</p> <!-- This will display the content of read.md -->
 
-      <section>
-        {{ content }}
+        <!-- Navigation to other pages with a nice layout -->
+        <h3>Explore Related Topics:</h3>
+        <div class="navigation-links">
+          {% for nav in site.navigation %}
+            <div class="nav-item">
+              <h4><a href="{{ nav.url | relative_url }}">{{ nav.title }}</a></h4>
+              <p>{{ nav.description }}</p>
+            </div>
+          {% endfor %}
+        </div>
       </section>
 
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+          <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
       </footer>
     </div>
