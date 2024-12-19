@@ -3,7 +3,7 @@ Therefore we needed to set a threshold.
 
 
 <div align="center">
-  <img src="/assets/img/thresold_.png" alt="Image description" width="50%">
+  <img src="/assets/img/thresold_.png" alt="Image description" width="100%">
 </div>
 
 The 99% percentile threshold was chosen,  as it is already a big set of users. It is statistically relevant because it is taking the most active 1% users for each channels. 
@@ -11,7 +11,10 @@ The 99% percentile threshold was chosen,  as it is already a big set of users. I
 Based on this threshold, clusters are created for each channel regrouping 1% of the most active users. 
 
 In our study we are interested in exploring the existence of isolated groups where the users do most likely not interact with each other. 
-![output](/assets/img/venn.png)
+
+<div align="center">
+  <img src="/assets/img/venn.png" alt="Image description" width="100%">
+</div>
 
 Regarding the Venn diagram, we see that out of 49 480 only 122 are shared across all channels, suggesting minime cross-channel interactions. 
 
