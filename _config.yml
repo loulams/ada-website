@@ -3,7 +3,7 @@ title:
 description: Do you want to discover more?  Choose your section here !
 show_downloads: True
 navigation:
-  - title: Home
+  - title: Home 🏡
     url: /
   - title: From creation to reaction 
     description: Understanding Youtube’s content dynamics
