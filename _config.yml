@@ -5,7 +5,7 @@ show_downloads: True
 navigation:
   - title: From creation to reaction
     description: Understanding Youtube's content dynamics
-    url: /blob/master/cluster.md
+    url: cluster
 
   - title: Uncovering the patterns
     description: Understanding the power players of youtube
