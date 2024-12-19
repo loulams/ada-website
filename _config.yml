@@ -5,11 +5,11 @@ show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Part 1: From creation to reaction : Understanding Youtube’s content dynamics
+  - title: From creation to reaction : Understanding Youtube’s content dynamics
     url: newsandpolitics
-  - title : Part 2: Uncovering the patterns of the  power players of youtube.
+  - title : Uncovering the patterns of the  power players of youtube.
     url: cluster
-  - title: Part 3: A world of similarities: uncovering shared viewing patterns 
+  - title: A world of similarities: uncovering shared viewing patterns 
     url: bubbles
-  - title: Part 4: The keywords beyond the curtain: Unveiling connections in shared videos. 
+  - title: The keywords beyond the curtain: Unveiling connections in shared videos. 
     url: description
