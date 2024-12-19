@@ -5,5 +5,14 @@ show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Example
-    url: example
+  - title: From creation to reaction 
+    description: Understanding Youtube’s content dynamics
+    url: cluster
+  - title:  Uncovering the patterns of the  power players of youtube
+    url: newsandpolitics
+  - title: A world of similarities
+    description: Uncovering shared viewing patterns 
+    url: bubbles
+  - title:  The keywords beyond the curtain
+    description: Unveiling connections in shared videos. 
+    url: description
