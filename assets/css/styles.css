@@ -25,6 +25,7 @@ h1 {
   margin-top: 50px;      /* Adds some space at the top */
   font-size: 36px;      
   font-weight: 500;
+  color: #a10808;
 }
 
 h2 {
@@ -38,7 +39,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#b22222;
+  color:#d11919;
   text-decoration:none;
 }
 
