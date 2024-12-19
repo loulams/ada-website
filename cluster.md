@@ -1,6 +1,9 @@
-## Total number of subscribers, users (i.e commenters) and comments in the 4 (soon 5) channels
+# Creation of content 
 
-![output](/assets/img/output1.png)
+On youtube , a lot of videos are produced, meaning a lot of content is created by various channels. 
+
+
+![output](/assets/img/output.png)
 
 ## Comments distribution for the 5 main channels
 ![output](/assets/img/outputb.png)
