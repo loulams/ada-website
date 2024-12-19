@@ -1,3 +1,8 @@
+---
+layout: default
+title: Are You Stuck in a YouTube Bubble? It's Time to Expand Your Information Sources!
+---
+
 # “Are You Stuck in a YouTube Bubble? It's Time to Expand Your Information Sources!”
 ![output](/assets/img/bubble_ADA_version1.png)
 
