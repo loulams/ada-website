@@ -3,13 +3,18 @@ title: Are You Stuck in a YouTube Bubble? It's Time to Expand Your Information S
 description: 
 show_downloads: True
 navigation:
-  - title: Home
-    url: /
-  - title: From creation to reaction - Understanding Youtube’s content dynamics
-    url: cluster
-  - title : Uncovering the patterns of the  power players of youtube.
-    url: newsandpolitics
-  - title: A world of similarities - uncovering shared viewing patterns 
-    url: bubbles
-  - title: The keywords beyond the curtain - Unveiling connections in shared videos. 
-    url: description
+  - title: From creation to reaction
+    description: Understanding Youtube's content dynamics
+    url: /content-dynamics
+
+  - title: Uncovering the patterns
+    description: Understanding the power players of youtube
+    url: /power-players
+
+  - title: A world of similarities
+    description: Uncovering shared viewing patterns
+    url: /viewing-patterns
+
+  - title: The keywords beyond the curtain
+    description: Unveiling connections in shared videos
+    url: /keywords
