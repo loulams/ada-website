@@ -19,8 +19,11 @@ h1, h2, h3 {
   line-height:1.1;
 }
 
+
 h1 {
-  font-size:28px;
+  text-align: center;   /* Centers the text horizontally */
+  margin-top: 50px;      /* Adds some space at the top */
+  font-size: 36px;      
   font-weight: 500;
 }
 
