@@ -3,6 +3,8 @@ title: Are You Stuck in a YouTube Bubble? It's Time to Expand Your Information S
 description: 
 show_downloads: True
 navigation:
+  - title: Home
+    url: /
   - title: From creation to reaction
     description: Understanding Youtube's content dynamics
     url: cluster
