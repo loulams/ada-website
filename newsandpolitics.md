@@ -1,4 +1,4 @@
-# Uncovering the patterns of the  power players of YouTube
+# Uncovering the patterns of the  power players of YouTube 🔍 📊 🎥
 
 As explained beforehand, only a small number of users post a lot of comments. We need to isolate these highly active users from the rest, who are not as invested, in order to extract clusters that can be further analyzed for specific patterns.
 Therefore we need to set a threshold for the number of comments we require a user to have in order to make them a part of the cluster.
