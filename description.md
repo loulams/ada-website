@@ -54,7 +54,7 @@ Trump seems to be the most popular! He is cited in the title of more than 100000
 On the other hand, Al Thani and Putin don’t seem to be very popular. Almost no videos featuring them were retrieved. Nevertheless, a small portion of Al Jazeera’s users (AJE) seems to be interested in Al Thani! That makes sense, as he is the Emir of Qatar, and AJE is a Middle Eastern news channel.
 
 
-What about different categories? One might ask if certain topics in news and politics appear more frequently than others, and how much the different users in the bubbles take an interest in them!
+What about different subject? One might ask if certain topics in news and politics appear more frequently than others, and how much the different users in the bubbles take an interest in them!
 Let’s dive into these topics: Climate, Education, Gender, Religion, and Abortion.
 
 
@@ -71,11 +71,11 @@ Let’s look at the top 3 bubbles having the highest number of users engaging wi
 
 Trump seems to be very popular among users across all bubbles! Except for one bubble in AJE, where only 50% of users appear to be interested in Trump. In contrast, Obama is not very popular in AJE bubbles but is highly popular among BBC News users, despite it being a British channel. 
 
-And what about the categories ? 
+And what about the subject ? 
 
 
 ![output](/assets/img/category_little_bulle.png)
 
-That’s interesting—while categories seem equally popular in CNN and BBC, the other three channels show distinct preferences within each bubble. In ABC, one bubble appears uninterested in religion and climate, while another seems to disregard religion and abortion. In AJE, the differences are even more pronounced! One bubble seems to focus solely on climate, though it remains a small category, suggesting another topic might capture their interest. In BBC, one bubble appears particularly interested in religion-related videos.
+That’s interesting—while subject seem equally popular in CNN and BBC, the other three channels show distinct preferences within each bubble. In ABC, one bubble appears uninterested in religion and climate, while another seems to disregard religion and abortion. In AJE, the differences are even more pronounced! One bubble seems to focus solely on climate, though it remains a small category, suggesting another topic might capture their interest. In BBC, one bubble appears particularly interested in religion-related videos.
 This analysis highlights that even within the same channel, bubbles exhibit distinct preferences for certain topics. This suggests that bubbles within a channel are not homogeneous but rather reflect diverse interests among their members.
 
