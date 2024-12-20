@@ -1,4 +1,4 @@
-#  Peering Into the Bubbles
+#  Peering Into the Bubbles 🫧👀
 
 # Exploring Content and Source Diversity
 
