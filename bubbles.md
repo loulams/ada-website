@@ -9,7 +9,7 @@ If particularly active people in a main channel are more likely to watch/comment
 
 The heatmap confirms that users within the same channel (diagonal values) are more aligned than users across the channels (off diagonal values). And here’s the twist: pairwise interactions within these channels and across the channels are significantly higher than those involving the random group. When we look at the random group’s pairwise interactions, the jaccard index is much lower, which could suggest that the our clusters are not behaving randomly. But hey, let’s not jump to conclusions just yet- let's look at the percentiles to see how user similarities evolve across higher thresholds of shared content.
 
-![output](/assets/img/jaccardindix.png)
+![output](/assets/img/heatmapS.png)
 
 While the similarity within the channels increases with the increase in percentile percentage,  the cross-channel interactions remains as weak. This reinforces the distinction between the clusters. What about the random users? well they are egal to 0. This likely means that our clusters do not behave randomly and have some common ground on the content watched. 
 
