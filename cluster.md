@@ -4,7 +4,7 @@
 # Understanding YouTube’s content dynamics
 
 
-## The Magical art of content creation 🪄
+## The magical art of content creation 🪄
 
 
 On YouTube, a lot of videos are produced, meaning that a lot of content is created by various channels. 
