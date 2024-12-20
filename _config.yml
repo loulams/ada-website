@@ -10,8 +10,7 @@ navigation:
     url: cluster
   - title:  Uncovering the patterns of the  power players of youtube 🔍 📊 🎥
     url: newsandpolitics
-  - title: A world of similarities  🌍 🔗 🤝
-    description: Uncovering shared viewing patterns 👁️‍🗨️ 📈
+  - title: Uncovering shared commenting patterns 👁️‍🗨️ 📈
     url: bubbles
   - title:  Peering Into the Bubbles 🫧👀
     description: Exploring Content and Source Diversity
