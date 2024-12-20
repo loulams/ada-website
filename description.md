@@ -1,6 +1,6 @@
-#  Peering Into the Bubbles 🫧👀
+#  Peering into the bubbles 🫧👀
 
-# Exploring Content and Source Diversity
+# Exploring content and source diversity
 
 
 
