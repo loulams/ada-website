@@ -4,7 +4,15 @@
 
 
 
+
+
+
 Now let’s step inside these bubbles to explore the patterns within. 
+
+
+
+
+
 
 ## Diversification of sources 
 
