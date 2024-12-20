@@ -15,3 +15,5 @@ navigation:
   - title:  Peering Into the Bubbles 🫧👀
     description: Exploring Content and Source Diversity
     url: description
+  - title: Conclusion
+    url: conclusion
