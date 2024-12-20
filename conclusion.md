@@ -16,3 +16,4 @@ Finally, category analysis revealed that even within the same channel, bubbles d
 
 ![output](/assets/img/mignonfinal.jpg)
 
+This image was generated with DALL.E from ChatGPT.
