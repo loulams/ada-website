@@ -1,4 +1,5 @@
-# From creation to reaction: understanding YouTube’s content dynamics
+# From creation to reaction 🎨 ➡️ 💡 
+# Understanding YouTube’s content dynamics
 
 ## The Magical art of content creation 🪄
 
