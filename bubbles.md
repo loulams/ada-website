@@ -64,11 +64,6 @@ Are these subclusters truly bubbles ? Let’s find out by examining the pairwise
 
 We found similar results as in the previous heatmaps , the off-diagonal terms representing cross-interactions between channels are much lower than the interaction within the bubble, except for ABC again. The same conclusion can be drawn in this sense. However, interestingly, we see that the jaccard indices are much higher than for the original clusters, both for between users of the same cluster and for users from two different clusters. In summary, this plot suggests that the behavior within the bubble is similar while the behavior compared with the other channels is more distinct therefore the DBSCAN’s bubbles are truly bubbles. 
 
-Overall, bubbles have been identified in two ways as resumed in this scheme:
-
-
-
-![output](/assets/img/shcema.jpg)
 
 With the bubbles now identified, we’ve established the framework to delve deeper into their characteristic patterns.
 
