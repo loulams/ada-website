@@ -3,6 +3,7 @@
 
 # Understanding YouTube’s content dynamics
 
+
 ## The Magical art of content creation 🪄
 
 
