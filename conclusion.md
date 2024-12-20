@@ -13,3 +13,6 @@ Across all bubbles,  Trump appeared to dominate user interest, except for one bu
 Finally, category analysis revealed that even within the same channel, bubbles demonstrate distinct preferences for certain topics. This suggests that bubbles within a channel are not homogeneous but instead reflect a range of diverse interests among their members.
 
 
+
+![output](/assets/img/mignonfinal.jpg)
+
