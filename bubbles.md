@@ -44,7 +44,9 @@ So far we have looked at the big picture of the clusters , but now it’s time t
 
 While our initial analysis provided valuable insights, the clusters were defined by us and did reveal similarities in user activity or content engagement. To refine our understanding of each cluster’s user behavior we now turn to DBSCAN- a clustering algorithm to identify subclusters - smaller, more similar groups of users. Here’s what we uncovered ! 
 
-#visualisation horti
+![output](/assets/img/netw1.png)
+![output](/assets/img/netw2.png)
+![output](/assets/img/netw3.png)
 
 
 DBSCAN has successfully identified bubbles. All outliers have been regrouped in one bubble which will not be considered in further analysis since our focus is on group tendency rather than individual activities and that we are looking for bubbles but outliers don’t have much in common so they won’t form a bubble. 
