@@ -1,4 +1,4 @@
-# Are You Stuck in a YouTube Bubble? It's Time to Expand Your Information Sources!
+# Are you stuck in a YouTube bubble? It's time to expand your information sources!
 
 ##            Analysis of Youtubers' comportment in News & Politics category
 
