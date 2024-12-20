@@ -14,13 +14,13 @@ While the similarity within the channels increases with the increase in percenti
 
 Knowing the strengthen similarities within channels and the weakened interactions across channels , it’s time to dig a little further. Let’s look at the whole distribution! 
 
-![output](/assets/img/jaccard_index.png)
+![output](/assets/img/jaccar_index.png)
 
 Same-channel pairs have a slower drop off than cross-channel pairs. Additionally looking at the distribution of jaccard indices of pairs of users including the random group we see the distribution loose his linearity and variates much more than the channels. This alignes with our previous assumption. 
 
 Now that we know that there are stronger connections within the channels and a more erratic behavior in the random group, it’s time to connect the dots-literally!
 
-![output](/assets/img/jaccard_index.png)
+![output](/assets/img/cluster_netword_channel.jpg)
 
 We see that CNN, FOX and ABC are more interconnected compared to AJE and BBC. However all clusters show extremely weak interaction with the random group. This supports our previous hypothesis that our clusters are far from being random and instead represent distinct bubbles with limited external interactions. 
 
@@ -39,6 +39,6 @@ Now that we have different bubbles with the clustering algorithm,
 
 Overall, bubbles can be identified in two ways as resumed in this scheme:
 
-![output](/assets/img/jaccard_index.png)
+![output](/assets/img/shcema.jpg)
 
 With the bubbles now identified, we’ve established the framework to delve deeper into their characteristic patterns.
