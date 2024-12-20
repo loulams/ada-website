@@ -3,6 +3,7 @@
 ##            Analysis of Youtubers' comportment in News & Politics category
 
 ![output](/assets/img/bubble_ADA_version1.png)
+This image was generated with DALL.E from CHatGPT
 
 Nowadays, most of the information we consume is digital-literature, pictures, videos, you name it. There is an endless stream of content out there, but there’s a catch: fake news!  Not everything you see can be trusted. So how do you avoid getting caught in the trap ? 
 Simple: stay informed, and by that we mean mixing it up, diversify your sources.
