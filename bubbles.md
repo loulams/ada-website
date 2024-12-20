@@ -6,6 +6,7 @@ Let’s take a closer look at wether our clusters identify as bubbles.
 If particularly active people in a main channel are more likely to watch/comment on similar content than a random group of Youtube users then we can classify our cluster as a bubble.
 
 ![output](/assets/img/mean_heatmap1.png)
+
 The heatmap confirms that users within the same channel (diagonal values) are more aligned than users across the channels (off diagonal values). And here’s the twist: pairwise interactions within these channels and across the channels are significantly higher than those involving the random group. When we look at the random group’s pairwise interactions, the jaccard index is much lower, which could suggest that the our clusters are not behaving randomly. But hey, let’s not jump to conclusions just yet- let's look at the percentiles to see how user similarities evolve across higher thresholds of shared content.
 
 ![output](/assets/img/jaccardindix.png)
