@@ -1,5 +1,5 @@
-
-
+![output](/assets/img/piechart0.png)
+![output](/assets/img/piechart1.png)
 
 Let’s now dive into the video's content ! 
 
