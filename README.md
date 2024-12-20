@@ -4,16 +4,14 @@
 
 ![output](/assets/img/bubble_ADA_version1.png)
 
-Nowadays, most of the information we consume is digital-literature, pictures, videos, you name it. There is an endless stream of content out there, but there’s a catch: fake news! 
+Nowadays, most of the information we consume is digital-literature, pictures, videos, you name it. There is an endless stream of content out there, but there’s a catch: fake news!  Not everything you see can be trusted. So how do you avoid getting caught in the trap ? 
+Simple: stay informed, and by that we mean mixing it up, diversify your sources.
 
 
-Not everything you see can be trusted. So how do you avoid getting caught in the trap ? Simple: stay informed, and by that we mean mixing it up, diversify your sources.
+For many, YouTube comes to mind as a go-to platform for diving deeper into any topic. Whether it’s for entertainment, learning or exploring the latest debates, This social media giant offers a massive variety of users and videos . Some people love exploring a broad range of videos or channels, while others stick to similar content within the same channel. We are going to group users into different clusters, in this case based on their commenting activities in a specific channel. Such clusters reflect communities invested into the same channel, but don't yet imply that they are not diversifying their sources to retrieve information on a particular topic.
 
 
-For many, YouTube comes to mind as a go-to platform for diving deeper into any topic. Whether it’s for entertainment, learning or exploring the latest debates, This social media giant offers a massive variety of users and videos . Some people  love exploring a broad range of videos or channels, while others stick to similar content within the same channel. We are going to group users into different clusters, in this case based on their commenting activities in a specific channel. Such clusters reflect communities invested into the same channel, but don't yet imply that they are not diversifying their sources to retrieve information on a particular topic.
-
-
-What we want to find out is whether these clusters can be considered to be bubbles, meaning that users are confined within the cluster, limiting exposure to other information sources.Furthermore, interactions are mostly between individuals who share the same interests, whether it's the same video subjects or channels followed.
+What we want to find out is whether these clusters can be considered to be bubbles, meaning that users are confined within the cluster, limiting exposure to other information sources. Furthermore, interactions are mostly between individuals who share the same interests, whether it's the same video subjects or channels followed.
 
 
 An area where we expect to see such bubbles is News and Politics (N&P). Why? Because N&P is inherently polarizing,  thus tending  to the establishment of strong opinions and engagement from diverse groups of people.
